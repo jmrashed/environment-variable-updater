@@ -7,7 +7,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/jmrashed/environment-variable-updater)
 ![GitHub contributors](https://img.shields.io/github/contributors/jmrashed/environment-variable-updater)
 
-![Environment Variable Updater](https://github.com/jmrashed/environment-variable-updater/blob/main/assets/directory.png)
+![Environment Variable Updater](https://github.com/jmrashed/environment-variable-updater/blob/main/assets/directory-and-files.png)
 
 
 
