@@ -1,5 +1,16 @@
 # Environment Variable Updater
 
+![GitHub](https://img.shields.io/github/license/jmrashed/environment-variable-updater)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/jmrashed/environment-variable-updater)
+![GitHub last commit](https://img.shields.io/github/last-commit/jmrashed/environment-variable-updater)
+![GitHub issues](https://img.shields.io/github/issues/jmrashed/environment-variable-updater)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/jmrashed/environment-variable-updater)
+![GitHub contributors](https://img.shields.io/github/contributors/jmrashed/environment-variable-updater)
+
+![Environment Variable Updater](https://github.com/jmrashed/environment-variable-updater/blob/main/assets/directory.png)
+
+
+
 ## Introduction
 
 The Environment Variable Updater is a shell script designed to streamline the process of updating environment variables in a `.env` file based on a given source file. This tool is particularly useful for managing environment-specific configurations in development and production setups.
